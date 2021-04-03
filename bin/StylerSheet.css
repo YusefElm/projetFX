@@ -1,0 +1,6 @@
+.root{
+	-fx-background-color:transparent ;
+}
+.parent{
+	-fx-background-color:rgb(128, 255, 0);
+}

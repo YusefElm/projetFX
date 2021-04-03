@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="styler"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_281"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JavaFX"/>
+	<classpathentry kind="lib" path="C:/Users/sana bououdoul/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.11.4/jackson-databind-2.11.4.jar" sourcepath="C:/Users/sana bououdoul/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.11.4/jackson-databind-2.11.4-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.fasterxml.jackson.core"/>
+			<attribute name="maven.artifactId" value="jackson-databind"/>
+			<attribute name="maven.version" value="2.11.4"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/sana bououdoul/Desktop/jar/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sana bououdoul/Desktop/jar/fontawesomefx-8.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sana bououdoul/Desktop/jar/fontawesomefx-8.9-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sana bououdoul/Desktop/jar/itextpdf-5.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sana bououdoul/Desktop/jar/itextpdf-5.4.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sana bououdoul/Desktop/jar/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sana bououdoul/Desktop/jar/jfoenix-8.0.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sana bououdoul/Desktop/jar/mail-5.1.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/javaFX"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
