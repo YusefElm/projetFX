@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="com.mysql.jdbc_5.1.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/JAR/com.mysql.jdbc_5.1.5.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/JAR/fontawesomefx-8.9.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/JAR/fontawesomefx-glyphsbrowser-all-1.0.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/JAR/itextpdf-5.4.3.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/JAR/javax.mail.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/JAR/jfoenix-8.0.10.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/JAR/mail-5.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Documents/JAR/fontawesomefx-8.9-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/JAR/itextpdf-5.4.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

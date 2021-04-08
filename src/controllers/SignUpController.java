@@ -1,14 +1,20 @@
 package controllers;
 
+import java.net.URL;
+import java.util.ResourceBundle;
+
 import javafx.application.Application;
+import javafx.fxml.Initializable;
 import javafx.stage.Stage;
 
-public class SignUpController extends Application{
+public class SignUpController implements Initializable{
 
 	@Override
-	public void start(Stage arg0) throws Exception {
+	public void initialize(URL location, ResourceBundle resources) {
 		// TODO Auto-generated method stub
 		
 	}
+
+
 
 }
